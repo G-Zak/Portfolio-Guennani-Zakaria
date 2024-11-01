@@ -624,12 +624,13 @@ input, textarea {
 }
 
 button[type="submit"] {
-    background-color: var(--orange-color);
+    background-color: var(rgb(2, 219, 2));
 }
 
 button[type="button"] {
     background-color: #dc3545;
     margin-left: 10px;
+    color: #eeeeee;
 }
 
 /*===========TP PHP COURS===========*/
